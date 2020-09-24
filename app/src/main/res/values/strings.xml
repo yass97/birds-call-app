@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ちゅんちゅんパラダイス</string>
+    <string name="suzume">スズメ</string>
+    <string name="ooruri">オオルリ</string>
+    <string name="uguisu">ウグイス</string>
+    <string name="sankotyou">サンコチョウ</string>
+    <string name="umineko">ウミネコ</string>
+    <string name="akahara">アカハラ</string>
+    <string name="kibitaki">キビタキ</string>
+    <string name="mosukemisosazai">モスケミソサザイ</string>
+    <string name="yatyou_gundan">野鳥軍団</string>
+    <string name="kamo_gundan">カモ軍団</string>
+</resources>
